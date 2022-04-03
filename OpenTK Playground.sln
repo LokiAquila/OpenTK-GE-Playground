@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTK Playground", "OpenTK Playground.csproj", "{126D2719-ECE1-4EBE-85E6-97ABAC3B6688}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shaders", "Shaders", "{F41AD064-6ED5-4143-8973-D3B06DEFEAF6}"
+	ProjectSection(SolutionItems) = preProject
+		shader.frag = shader.frag
+		shader.vert = shader.vert
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{126D2719-ECE1-4EBE-85E6-97ABAC3B6688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126D2719-ECE1-4EBE-85E6-97ABAC3B6688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126D2719-ECE1-4EBE-85E6-97ABAC3B6688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126D2719-ECE1-4EBE-85E6-97ABAC3B6688}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE2B83D2-355C-47BB-8D4A-4EE90A255AAF}
+	EndGlobalSection
+EndGlobal

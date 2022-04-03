@@ -1,0 +1,29 @@
+E:\Projects\Testing Projects\OpenTK Playground\bin\Debug\net6.0\OpenTK Playground.exe
+E:\Projects\Testing Projects\OpenTK Playground\bin\Debug\net6.0\OpenTK Playground.deps.json
+E:\Projects\Testing Projects\OpenTK Playground\bin\Debug\net6.0\OpenTK Playground.runtimeconfig.json
+E:\Projects\Testing Projects\OpenTK Playground\bin\Debug\net6.0\OpenTK Playground.dll
+E:\Projects\Testing Projects\OpenTK Playground\bin\Debug\net6.0\OpenTK Playground.pdb
+E:\Projects\Testing Projects\OpenTK Playground\bin\Debug\net6.0\OpenTK.Compute.dll
+E:\Projects\Testing Projects\OpenTK Playground\bin\Debug\net6.0\OpenTK.Core.dll
+E:\Projects\Testing Projects\OpenTK Playground\bin\Debug\net6.0\OpenTK.Graphics.dll
+E:\Projects\Testing Projects\OpenTK Playground\bin\Debug\net6.0\OpenTK.Input.dll
+E:\Projects\Testing Projects\OpenTK Playground\bin\Debug\net6.0\OpenTK.Mathematics.dll
+E:\Projects\Testing Projects\OpenTK Playground\bin\Debug\net6.0\OpenTK.OpenAL.dll
+E:\Projects\Testing Projects\OpenTK Playground\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+E:\Projects\Testing Projects\OpenTK Playground\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+E:\Projects\Testing Projects\OpenTK Playground\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+E:\Projects\Testing Projects\OpenTK Playground\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+E:\Projects\Testing Projects\OpenTK Playground\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+E:\Projects\Testing Projects\OpenTK Playground\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+E:\Projects\Testing Projects\OpenTK Playground\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+E:\Projects\Testing Projects\OpenTK Playground\obj\Debug\net6.0\OpenTK Playground.csproj.AssemblyReference.cache
+E:\Projects\Testing Projects\OpenTK Playground\obj\Debug\net6.0\OpenTK Playground.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Testing Projects\OpenTK Playground\obj\Debug\net6.0\OpenTK Playground.AssemblyInfoInputs.cache
+E:\Projects\Testing Projects\OpenTK Playground\obj\Debug\net6.0\OpenTK Playground.AssemblyInfo.cs
+E:\Projects\Testing Projects\OpenTK Playground\obj\Debug\net6.0\OpenTK Playground.csproj.CoreCompileInputs.cache
+E:\Projects\Testing Projects\OpenTK Playground\obj\Debug\net6.0\OpenTK Playground.csproj.CopyComplete
+E:\Projects\Testing Projects\OpenTK Playground\obj\Debug\net6.0\OpenTK Playground.dll
+E:\Projects\Testing Projects\OpenTK Playground\obj\Debug\net6.0\refint\OpenTK Playground.dll
+E:\Projects\Testing Projects\OpenTK Playground\obj\Debug\net6.0\OpenTK Playground.pdb
+E:\Projects\Testing Projects\OpenTK Playground\obj\Debug\net6.0\OpenTK Playground.genruntimeconfig.cache
+E:\Projects\Testing Projects\OpenTK Playground\obj\Debug\net6.0\ref\OpenTK Playground.dll
